@@ -1,8 +1,6 @@
 <img width="1024" height="1536" alt="Focusflow_5 0_poster" src="https://github.com/user-attachments/assets/b3703011-7f4f-48b3-888c-9eb9932b5551" />
 
-FocusFlow v5.0 — Public App Description (Ungated)
-
-Morphs FocusFlow v5.0 (Studio Edition)
+Morphs FocusFlow v5.0 
 Air-Gapped Ambient Sound Synthesizer, Studio MP3 Deck & Fullscreen OLED HUD
 
 Transform your workspace into a calm, focused environment. Morphs FocusFlow is an offline ambient workstation designed to help you study, work, meditate, and relax. Engineered with mathematical sound generation, a local audio player, a decoupled Pomodoro desk timer, and fullscreen landscape clock displays, FocusFlow keeps you centered and productive without distractions.
