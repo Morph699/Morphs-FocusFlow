@@ -1,66 +1,69 @@
 <img width="1024" height="1536" alt="FocusFlow" src="https://github.com/user-attachments/assets/17b943e4-51bd-43fb-9504-ec91962c0522" />
 
-# Morphs FocusFlow Studio
+# Morphs FocusFlow Studio v5.5
+**High-Performance Focus, Ambient Sound Synthesis & Digital Time Station**  
+*Built by Morphs Creations*
 
-**Master Ambient Synthesizer, Procedural Sound Bed & Deep Productivity Suite**
+---
 
-Transform your workspace with **Morphs FocusFlow Studio**, an air-gapped productivity environment and procedural acoustic generator. Built for creators, developers, researchers, and deep-work professionals, FocusFlow seamlessly pairs customizable focus timers with real-time procedural nature soundscapes, centered fullscreen ambient clock displays, and a native studio audio player—all engineered to operate 100% offline with zero data telemetry.
+### Overview
+**Morphs FocusFlow Studio** is a distraction-free, air-gapped productivity environment designed to combine deep work pacing, real-time procedural soundscapes, and digital desk displays into a single offline workstation. Available across native Windows Desktop and mobile/web environments, FocusFlow eliminates network dependency, telemetry, and background tracking in favor of 100% client-side execution.
 
-### Core Highlights
+---
 
-* **Mathematical Nature Synthesis:** Generate pure ambient acoustic beds in real time via mathematically modeled audio waveforms. No repetitive audio loops, no cloud buffers, and zero network dependencies.
-* **Centered Fullscreen Productivity HUDs:** Transform any monitor, laptop, or ambient room display into a distraction-free digital station with perfectly centered Desk Mode and Mountain Clock HUD layouts.
-* **Expanded Wake Alarm Station:** A dedicated, intelligent alarm sentry that automatically detects your system's regional clock format (native 24-hour military time or 12-hour AM/PM) with direct time entry, quick-jump presets, custom alarm volume control, and wake-up sound options.
-* **Studio Audio Deck & Playlist Engine:** Stream your own local music library (`.mp3`, `.wav`, `.wma`, `.m4a`) directly from disk with instantaneous loading and zero file size ceilings.
-* **Complete Air-Gapped Privacy:** True offline architecture. No telemetry, no background network pings, no cloud tracking. All preferences, custom alarm tracks, and saved scenes remain strictly on your local device.
+### Key Capabilities & Systems
 
-### Feature Breakdown by Tier
+#### 1. Air-Gapped Nature & White Noise Synthesizers
+Generate ambient acoustic environments calculated in real time directly on your device's audio hardware—no audio streaming or static looping files:
+* **Binaural Alpha:** Dual-frequency tuned phase-offset beats designed for cognitive synchronization.
+* **Cosmic Drone:** Resonant sub-bass warmth mixing triangle and low-frequency sine waves.
+* **Night Crickets:** Organic burst generator modeling randomized field acoustics.
+* **Soft Fan:** Acoustic low-pass filtered whir paired with subtle line hum.
+* **Ocean Waves:** Dual-filtered Brownian sub-bass driven by rhythmic low-frequency swell modulations.
+* **Rain Shower:** Bandpass and low-pass filtered droplet beds.
+* **Alpine Wind:** Dynamic resonant bandpass sweeps simulating natural gusts.
+* **Wind Chimes:** Pentatonic modal bell strikes with authentic exponential decay.
 
-#### Core Free Tier
-* **Deep Focus Pomodoro Timer:** 4-stage productivity cycle engine (25-minute Deep Focus, 5-minute Short Rest, 15-minute Long Rest) with phase skip and reset controls.
-* **Pure Binaural Alpha Synthesizer:** Calibrated stereo phase-beat generator designed to foster calm focus and steady concentration.
-* **Centered Fullscreen HUDs:** Full access to Desk Mode and Mountain Clock Mode featuring unclipped digital displays centered vertically on screen with clean date and status readouts.
-* **Scenic Vector Backdrops:** Curated high-contrast scenes including Alpine Twilight, Golden Sunset, Emerald Forest, Midnight Crescent, and OLED Black.
-* **Essential Visual Palette:** High-contrast Soft Slate Light and Dark Mode themes.
-* **Dynamic Typography:** Small and Medium interface scaling options.
-* **Real-Time Visualizer:** Live audio spectrum analyzer displaying sound waveforms, frequency response, and volume dynamics.
+#### 2. Local Audio Player & Playlist Studio
+Integrate personal study tracks directly alongside synthesized environments:
+* **Multi-Format Support:** Play `.mp3`, `.wav`, `.wma`, and `.m4a` files directly from local storage.
+* **Studio Playlist Queue:** Drag-and-drop playlist builder with save/load support for custom playlists.
+* **Independent Dual Mixing:** Fine-tune track volume independently from the master synthesizer bus.
+* **Quick Transport:** Instant seek scrubber with ±15s precision skip toggles.
 
-#### Supporter Tier (Available with Any Creator Tip)
-*All Core Free features, plus:*
-* **Cosmic Drone Synthesizer:** Warm, harmonic low-frequency resonance generator for sound isolation and deep contemplation.
-* **Matrix Green Theme:** Phosphor-green cyber aesthetic for low-light environments.
-* **Supporter Radar Badge:** Supporter identity badge displayed across application headers.
+#### 3. Real-Time Audio Visualizer Engine
+Low-latency audio monitoring powered by an internal wiretap DSP pipeline:
+* **Classic Spectrum Analyzer:** 32-band responsive frequency bars with gravity-affected peak-hold caps.
+* **Neon Oscilloscope:** Live waveform ribbon visualizing phase and amplitude in real time.
+* **Warp Tunnel:** Concentric, beat-reactive geometric starburst visualizations.
 
-#### Standard Tier
-*All Supporter features, plus:*
-* **Custom Studio Audio Deck:** Import, play, and queue local audio files (`.mp3`, `.wav`, `.wma`, `.m4a`) with live seeking, 15-second skip toggles, and dual track/master volume balance.
-* **Queue Playlist Studio:** Build, edit, clear, and save custom playlists to disk for instant recall.
-* **Precision Custom Stepper:** Set any custom focus or work duration from 1 to 180 minutes.
-* **Expanded Gentle Wake Alarm Station:**
-  * **System Clock Auto-Detection:** Automatically matches your operating system's 24-hour or 12-hour settings.
-  * **Flexible Natural Time Input:** Type target wake times directly without formatting restrictions.
-  * **Quick-Jump Presets:** Rapidly advance your alarm time by +15m, +30m, +45m, +1h, +2h, or +8h with a single tap.
-  * **Dedicated Alarm Volume:** Dial in your exact alarm loudness independently from master audio.
-  * **Wake Sound Selection:** Wake up to the vintage **Retro Motherboard BIOS Chime** or select any personal **Custom MP3 / Audio Track** from your device with zero file size limits.
-  * **Always-On Sentry:** Alarm monitors the clock reliably in the background whether focus timers are active or paused.
-* **Expanded Nature Synthesizers:** Unlocks calming Night Crickets and acoustic Soft Fan sound beds.
-* **Stylized HUD Fonts:** Unlocks Digital Mono and Minimalist Slim typography across fullscreen clock faces.
-* **Expanded Themes:** Unlocks Cyber Yellow and Cyberpunk Pink color matrices.
-* **Large UI Scaling:** Enhanced typography layout for improved readability.
+#### 4. Paced Focus Station & Adaptive Stepper
+* **Interval Presets:** Instant selection between Deep Focus (25m), Short Rest (5m), and Restorative Long Rest (15m).
+* **Pomodoro Automation:** Automatically sequences work sessions and rest cycles while tracking session milestones.
+* **Custom Minute Stepper:** Configurable timer durations ranging from 1 to 180 minutes.
+* **Zero-Drift Clockwork:** Precision timer architecture that runs continuously in background or overlay modes.
 
-#### Pro Premium Tier
-*The complete studio workstation. All Standard features, plus:*
-* **Full Nature Synthesizer Suite:** Unlocks the complete acoustic library:
-  * *Ocean Waves* (dual-filtered sub-bass wash with natural wave period swells)
-  * *Rain Shower* (gentle droplet acoustic bed with variable frequency filtering)
-  * *Alpine Wind* (resonant mountain sweep with dynamic modulation)
-  * *Wind Chimes* (procedural pentatonic strike generator with organic decay)
-* **5-Slot Studio Scenes Hub:**
-  * Snapshot and save complete combinations of active nature synthesizers, custom volume balances, timer durations, and active MP3 music tracks.
-  * Preserves your exact MP3 track paths and playback states across application restarts.
-* **Scene-Linked Wake Alarm:**
-  * Link any saved Studio Scene directly to your alarm to wake up to your full customized audio bed (synthesizers + music playing together).
-* **Custom HUD Photo Wallpapers:** Upload and display personal photos and artwork directly behind the fullscreen Mountain Clock and Desk displays.
-* **Neon Cyber HUD Glow:** Vivid neon display illumination for nightstand, desktop, and studio clock layouts.
-* **Complete Theme Collection:** Unlocks Dracula Purple, Blood Matrix, Nordic Frost, Solarized Ocean, and Sunset Amber.
-* **Extra Large Typography:** Maximum scale interface layout optimized for ultrawide monitors, TVs, and wall-mounted setups.
+#### 5. Always-On Gentle Wake Alarm
+* **Direct Time Parsing:** Accepts flexible regional formats (both 24-hour time like `14:12` and 12-hour notations like `2:12 PM`).
+* **Quick-Jump Offsets:** One-click alarm setters for +15m, +30m, +45m, +1h, +2h, or +8h intervals.
+* **Dynamic Wake Options:** Wake up to retro hardware chimes, custom local audio tracks, or orchestrated multi-layered scenes.
+* **Smooth Audio Swells:** Gentle ramp-up volume prevents harsh awakening.
+
+#### 6. Multi-Scene Studio Snapshot Hub
+* **Instant State Preservation:** Save complete studio setups across 5 dedicated snapshot slots.
+* **Full Bus Recall:** Preserves active synthesizers, fader levels, timer configurations, and local audio tracks with a single click.
+
+#### 7. Fullscreen Desk & Mountain Clock HUDs
+Transform any screen, monitor, or tablet into a standalone time hub:
+* **Scenic Vector Backdrops:** Select from procedural landscapes including Alpine Twilight, Golden Sunset, Emerald Forest, Midnight Crescent, and minimal OLED Black.
+* **Custom Wallpaper Integration:** Load personal background photography directly into the clock stage.
+* **Digital Font Engine:** Switch between 7-Segment Digital Dream, Modern Sans, Clean Monospace, Minimalist Slim, and Neon Cyber typography.
+* **OLED Dimmer & Digital Glow:** Fine-tune display brightness down to 5% with optional digital bloom effects to eliminate glare in dark environments.
+* **Auto-Hiding Controls:** Toolbar docks automatically fade away during inactivity to prevent distraction and display burn-in.
+
+---
+
+### Technical Highlights
+* **Zero Server Overhead:** Completely air-gapped; requires no account, internet connection, or external dependencies.
+* **Dual-Path Settings Resilience:** Persistent configuration storage automatically fail-safes between local portable directories and system profile storage.
+* **Hardware Safe Zones:** Built-in dead-zone padding shields mobile touch layouts against notches and cracked glass rows.
